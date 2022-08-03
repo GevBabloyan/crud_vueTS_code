@@ -1,0 +1,3 @@
+export enum ActionTypes {
+  A_CHANGE_LOCALIZATION = "A_CHANGE_LOCALIZATION",
+}

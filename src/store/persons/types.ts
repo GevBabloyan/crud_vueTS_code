@@ -1,0 +1,5 @@
+export enum ActionTypes {
+  A_ADD_NEW_PERSON = "A_ADD_NEW_PERSON",
+  A_DELETE_PERSON = "A_DELETE_PERSON",
+  A_UPDATE_PERSON = "A_UPDATE_PERSON",
+}
